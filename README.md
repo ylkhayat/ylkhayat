@@ -14,6 +14,10 @@ Currently looking for a M. Sc. program in the Machine Learning field to further 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseftarekkh&count_private=true&show_icons=true&theme=gruvbox)
 
+##### Some of my daily used keyboard sentences 💡
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftarekkh&layout=compact&theme=gruvbox)](https://github.com/yousseftarekkh/github-readme-stats)
+
 Eagerly willing to contribute to the community and GitHub 🌠
 
 <!--
