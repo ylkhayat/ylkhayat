@@ -1,6 +1,20 @@
-### Howdie, dear individuals of GitHub 👋
+### Howdie,
+
+#### Dear people of GitHub 👋
+
+##### Here's me in a couple of brief paragraphs
+
+Volunteered in some of the junior teaching assistant positions through my years of university. Grabbed the opportunity to work in a software house on my third year of engineering
+👷 to become a software developer with a moderate amount of knowledge in the field. Dedicated a period of time to adapt to trendy libraries and frameworks to implement personalized applications. And finally reached out to as many ushering opportunities as I could in a variety of events.
+
+Currently looking for a M. Sc. program in the Machine Learning field to further proceed with the one and only plan to grow, both academically and personally, in order to get the chance to leave a memorable footprint
+🏗️.
+
+##### Dropping my stats for your personal intellect 🍷
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseftarekkh&count_private=true&show_icons=true&theme=gruvbox)
+
+Eagerly willing to contribute to the community and GitHub 🌠
 
 <!--
 **yousseftarekkh/yousseftarekkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
