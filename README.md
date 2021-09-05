@@ -10,14 +10,14 @@ Volunteered in some of the junior teaching assistant positions through my years 
 Currently looking for a M. Sc. program in the Machine Learning field to further proceed with the one and only plan to grow, both academically and personally, in order to get the chance to leave a memorable footprint
 🏗️.
 
-##### Dropping my stats for your personal intellect 🍷
+<!-- ##### Dropping my stats for your personal intellect 🍷
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseftarekkh&count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousseftarekkh&count_private=true&show_icons=true&theme=gruvbox) -->
 
-##### Some of my daily used keyboard sentences 💡
+<!-- ##### Some of my daily used keyboard sentences 💡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousseftarekkh&layout=compact&theme=gruvbox)](https://github.com/yousseftarekkh/github-readme-stats)
-
+ -->
 Eagerly willing to contribute to the community and GitHub 🌠
 
 <!--
