@@ -10,7 +10,7 @@ Fueled by my love for data, I decided to pursue an M.Sc degree in the Data Engin
 
 ## Look at me go ✨
 
-![Youssef's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=ylkhayat&count_private=true&include_all_commits=true&show_icons=true)
+![Youssef's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=ylkhayat&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 ## Being a part of the community 🌠
 
