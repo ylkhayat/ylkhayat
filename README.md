@@ -6,7 +6,7 @@
 
 Volunteered in a lot of junior teaching assistant positions throughout my years of B.Sc at the German University in Cairo, Egypt. Grabbed the opportunity to work in a Software House in my third year of engineering to become a Software Engineer with a decent amount of knowledge in the field and trends. Always dedicated to adapting to trendy libraries and frameworks to implement personalized applications. Finally, reached out to as many ushering opportunities as I could in various social events.
 
-Fueled by my love for data, I decided to pursue an M.Sc degree in the Data Engineering & Analytics program at Technische Universität München, Deutschland. Graduating in February, 2025 and ready for my upcoming next career step. I plan to grow, both academically and personally, in order to leave a memorable footprint 🏗️.
+Fueled by my love for data, I decided to pursue an M.Sc degree in the Data Engineering & Analytics program at Technische Universität München, Deutschland. Graduated in February 2025 with the highest distinction, along with a publication from my thesis, and ready for my upcoming next career step. I plan to grow, both academically and personally, in order to leave a memorable footprint 🏗️.
 
 ## Look at me go ✨
 
