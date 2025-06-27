@@ -8,7 +8,6 @@ Volunteered in a lot of junior teaching assistant positions throughout my years 
 
 Fueled by my love for data, I decided to pursue an M.Sc degree in the Data Engineering & Analytics program at Technische Universität München, Deutschland. Graduated in February 2025 with the highest distinction, along with a publication from my thesis, and ready for my upcoming next career step. I plan to grow, both academically and personally, in order to leave a memorable footprint 🏗️.
 
-## Look at me go ✨
 
 ![Youssef's github stats](https://github-readme-stats-wheat-eta.vercel.app/api?username=ylkhayat&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
